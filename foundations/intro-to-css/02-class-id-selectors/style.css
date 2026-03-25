@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.banana {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}/* Add CSS Styling */
+
+.banana.hotdog {
+    font-size: 24px;
+}
+
+#water {
+    background-color: blue;
+    font-size: 36px;
+
+}
+
+#green {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
